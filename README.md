@@ -13,8 +13,17 @@ To run the server, in the command line run:
 node server.js
 
 Technology Used:
-Node
-MySQL
-Sequelize
-Express
-Dotenv
+Node,
+MySQL,
+Sequelize,
+Express,
+Dotenv,
+Insomnia
+
+Screenshot
+<img width="1131" alt="Screen Shot 2022-02-15 at 11 33 23 PM" src="https://user-images.githubusercontent.com/94794961/154196845-df510eb6-7a35-451c-8836-e56eee5b43b5.png">
+
+Link to Videos 2 parts
+https://watch.screencastify.com/v/2rC5V5yMAzRv7tq2qrLy
+
+https://watch.screencastify.com/v/tmcqHzgjtvAsXYCDqnh7
